@@ -1,0 +1,9 @@
+server:
+  #端口
+  port: 10008
+
+
+## Dubbox
+zookeeper.url: zookeeper://127.0.0.1:2181
+dubbo.local.url.used: true
+dubbo.local.url.port: 60086

@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: shr-service-provider
+  profiles:
+    active: dev
